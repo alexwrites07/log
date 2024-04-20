@@ -1,4 +1,4 @@
-# LogForGood ( project as part of GPC515 (IIT DHANBAD))
+# LogForGood ( Project as part of case study : GPC510 -IIT DHANBAD )
 # Main Objective : 
 Extending the features of petroHarrit to do beyond elementary data visualisation .
 # Goals :
