@@ -1,6 +1,6 @@
 # LogForGood
 # Main Objective : 
-Extenting the features of petroHarrit to do beyond data elementary data visualisation .
+Extending the features of petroHarrit to do beyond elementary data visualisation .
 # Goals :
 1. Use the knowledge from case study of GPC 515 to add feature to display all the logs .
 2. Create user promt if data mneomonics is not standard.
