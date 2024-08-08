@@ -1,7 +1,7 @@
-# LogForGood ( Project as part of case study : GPC510 -IIT DHANBAD )
-# Main Objective : 
+LogForGood ( Project as part of case study : GPC510 -IIT DHANBAD )
+## Main Objective : 
 Extending the features of petroHarrit to do beyond elementary data visualisation .
-# Goals :
+## Goals :
 1. Use the knowledge from case study of GPC 510 to add feature to display all the logs .
 2. Create user promt if data mneomonics is not standard.
 3. Add Generative AI features to extend visualisation capacity with AI summary of plot.
