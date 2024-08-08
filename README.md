@@ -1,3 +1,5 @@
+**Guide** : `Dr. Partha Pratim Mandal` from `The Department of Applied Geophysics` at `IIT (ISM) DHANBAD`.  
+
 **LogForGood** is a project as part of the case study for GPC510 at IIT Dhanbad. The main objective is to extend the features of petroHarrit to go beyond elementary data visualization, enhancing reservoir data analysis through advanced features and improved user experience.
 
 ## Main Objective
