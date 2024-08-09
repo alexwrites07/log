@@ -68,4 +68,4 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/LogForGood.git
+   git clone https://github.com/alexwrites07/log.git
